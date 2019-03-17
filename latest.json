@@ -2,7 +2,7 @@
    "build_details":[  
       {  
          "rom":"ZircobiumAosp",
-         "rom_tag":"Aoszp",
+         "rom_tag":"aoszp",
          "build_type":"official",
          "version":"A9.0",
          "build_date":"(2019/03/16)",
