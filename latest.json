@@ -1,34 +1,66 @@
-{  
-   "build_details":[  
-      {  
-         "rom":"ZircobiumAosp",
-         "rom_tag":"aoszp",
-         "build_type":"official",
-         "version":"A9.0",
-         "build_date":"(2019/03/16)",
-         "changelog":"changelog.txt"
-      }
-   ],
-   "device_details":[  
-      {  
-         "device":"Redmi Note 4",
-         "codename":"mido"
-      }
-   ],
-   "links":[  
-      {  
-         "download_link":"https://sourceforge.net/projects/zirconiumaosp/files/mido/ZirconiumAosp-9.0-IGNITE-mido-20190316-1029-OFFICIAL.zip/download",
-         "thread_link":"https://forum.xda-developers.com/showpost.php?p=79131389&postcount=18",
-         "group_link":"https://t.me/ZirconiumAospChat"
-      }
-   ],
-   "developer_details":[  
-      {  
-         "developer_name":"Yasir siddiqui",
-         "developer_contact":"https://t.me/Yasirsiddiqui"
-      }
-   ]
-}
-     
+[  
+   {  
+      "build_details":[  
+         {  
+            "rom":"AospExtended",
+            "rom_tag":"aex",
+            "build_type":"official",
+            "version":"v6.4",
+            "build_date":"(2019/03/18)",
+            "changelog":"changelog.txt"
+         }
+      ],
+      "device_details":[  
+         {  
+            "device":"Redmi 3S",
+            "codename":"land"
+         }
+      ],
+      "links":[  
+         {  
+            "download_link":"https://api.aospextended.com/download/land/pie/51ec33e251453d4b1ba96969b5ef7927a16a646ab9d95d6a732a7d2f45812d3e65278ef54ca7d808c898567622281818e6",
+            "thread_link":"",
+            "group_link":""
+         }
+      ],
+      "developer_details":[  
+         {  
+            "developer_name":"Sairam (sairam60)",
+            "developer_contact":"https://forum.xda-developers.com/member.php?u=7111945"
+         }
+      ]
+   },
+   {  
+      "build_details":[  
+         {  
+            "rom":" PixelExperience",
+            "rom_tag":"pixel",
+            "build_type":"official",
+            "version":"A9.0",
+            "build_date":"(2019/03/20)",
+            "changelog":"changelog1.txt"
+         }
+      ],
+      "device_details":[  
+         {  
+            "device":"Mi 8 lite",
+            "codename":"platina"
+         }
+      ],
+      "links":[  
+         {  
+            "download_link":"https://download.pixelexperience.org/changelog/platina/PixelExperience_platina-9.0-20190320-0404-OFFICIAL.zip/",
+            "thread_link":"https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707",
+            "group_link":""
+         }
+      ],
+      "developer_details":[  
+         {  
+            "developer_name":"Bruno Rochaa (brunorochaa)",
+            "developer_contact":"https://t.me/brunorochaa"
+         }
+      ]
+   }
+]
       
    
