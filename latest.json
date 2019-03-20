@@ -34,11 +34,11 @@
       "build_details":[  
          {  
             "rom":" PixelExperience",
-            "rom_tag":"pixel",
+            "rom_tag":"pe",
             "build_type":"official",
             "version":"A9.0",
             "build_date":"(2019/03/20)",
-            "changelog":"changelog1.txt"
+            "changelog":""
          }
       ],
       "device_details":[  
