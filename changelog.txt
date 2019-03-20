@@ -1,6 +1,3 @@
-- Selinux Enforcing 
-- Fixed most of the issues
-- Improved stability and performance
-- Many rom side changes
-- March security patch
+- Source updates
+
 
