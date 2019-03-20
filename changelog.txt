@@ -1,14 +1,8 @@
--Added Battery Styles
--Added Gallery And File Manager App.
--Add Option To Enable/Disable SS Sound
--Added Fingerprint Authentication Vibration Feautre.
--Added Charging Vibration Support
--Added OTA Support.
--Added Power Menu Customizations.
--Added Some QS Tiles
-•Caffeine
-•Screenshot.
-•Heads UP
-•Expanded Desktop
--Updated LawnChair To Alpha-943
+-March security patch 
+-Fix wifidisplay 
+-Updated all blobs to P 
+-Kernel upstreamed to 3.18.136 
+-Fix aggressive killing of apps 
+-Fix deep sleep issues
+-aex upstream
 
